@@ -23,11 +23,11 @@ def assembled_matrix
   "Oranges",
   "Watermelon",
   "Eggplant"],
-  ["Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"]
+  [ "Strawberries",
+  "Potatoes",
+  "Grapes",
+  "Avocadoes",
+  "Asparagus"]
   ]
    
   
